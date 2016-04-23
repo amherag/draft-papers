@@ -1,0 +1,13 @@
+.DS_Store
+*.zip
+raw-results
+readme.txt
+.pdf
+papers
+example.pdf
+paper.pdf
+*.aux
+*.log
+*.out
+*.gz
+*.blg

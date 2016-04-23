@@ -1,0 +1,159 @@
+\begin{thebibliography}{}
+
+\bibitem[Abdullah and Ling, 2012]{abdullah2012intervals}
+Abdullah, L. and Ling, C.~Y. (2012).
+\newblock Intervals in fuzzy time series model preliminary investigation for
+  composite index forecasting.
+\newblock {\em ARPN Journal of Systems and Software}, 2(1):7--11.
+
+\bibitem[Abounoori and Ziachi, 2014]{abounoori2014forecast}
+Abounoori, E. and Ziachi, A.~A. (2014).
+\newblock Forecast and compare of stock price index at tehran stock exchange
+  using fibonacci and fuzzy method.
+\newblock {\em Arth prabandh: A Journal of Economics and Management},
+  3(10):74--83.
+
+\bibitem[Adebiyi et~al., 2012]{adebiyi2012stock}
+Adebiyi, A., Ayo, C., Adebiyi, M.~O., and Otokiti, S. (2012).
+\newblock Stock price prediction using neural network with hybridized market
+  indicators.
+\newblock {\em Journal of Emerging Trends in Computing and Information
+  Sciences}, 3(1):1--9.
+
+\bibitem[Carney, 2005]{carney2005methodology}
+Carney, S. (2005).
+\newblock Methodology of utilizing fibonacci numbers to analyze and predict
+  trends in financial markets.
+\newblock US Patent App. 11/110,581.
+
+\bibitem[Chakravarty and Dash, 2012]{chakravarty2012pso}
+Chakravarty, S. and Dash, P. (2012).
+\newblock A pso based integrated functional link net and interval type-2 fuzzy
+  logic system for predicting stock market indices.
+\newblock {\em Applied Soft Computing}, 12(2):931--941.
+
+\bibitem[Chatterjee et~al., 2002]{chatterjee2002applications}
+Chatterjee, A., Felix~Ayadi, O., and Maniam, B. (2002).
+\newblock The applications of the fibonacci sequence and elliott wave theory in
+  predicting the security price movements: a survey.
+\newblock {\em Journal of Commercial Banking and Finance}, 1:65--76.
+
+\bibitem[Chen et~al., 2007]{chen2007fuzzy}
+Chen, T.-L., Cheng, C.-H., and Teoh, H.~J. (2007).
+\newblock Fuzzy time-series based on fibonacci sequence for stock price
+  forecasting.
+\newblock {\em Physica A: Statistical Mechanics and its Applications},
+  380:377--390.
+
+\bibitem[Farmer et~al., 2012]{farmer2012complex}
+Farmer, J.~D., Gallegati, M., Hommes, C., Kirman, A., Ormerod, P., Cincotti,
+  S., S{\'a}nchez, A., and Helbing, D. (2012).
+\newblock A complex systems approach to constructing better models for managing
+  financial markets and the economy.
+\newblock {\em The European Physical Journal Special Topics}, 214(1):295--324.
+
+\bibitem[Hellal and Meyer, 2014]{hellal2014wave}
+Hellal, O.~A. and Meyer, G.~H. (2014).
+\newblock A wave smoothing algorithm and applications to the financial markets.
+\newblock {\em Aestimatio}, (8):114.
+
+\bibitem[Kazem et~al., 2013]{kazem2013support}
+Kazem, A., Sharifi, E., Hussain, F.~K., Saberi, M., and Hussain, O.~K. (2013).
+\newblock Support vector regression with chaos-based firefly algorithm for
+  stock market price forecasting.
+\newblock {\em Applied soft computing}, 13(2):947--958.
+
+\bibitem[Kotick, 1996]{kotick1996introduction}
+Kotick, J. (1996).
+\newblock An introduction to the elliott wave principle.
+
+\bibitem[Kotyrba et~al., 2013]{kotyrba2013methodology}
+Kotyrba, M., Volna, E., Janosek, M., Habiballa, H., and Brazina, D. (2013).
+\newblock Methodology for elliott waves pattern recognition.
+\newblock {\em ratio}, 34(55):0--618.
+
+\bibitem[Kumar, 2014]{kumar2014magic}
+Kumar, R. (2014).
+\newblock Magic of fibonacci sequence in prediction of stock behavior.
+\newblock {\em International Journal of Computer Applications}, 93(11).
+
+\bibitem[Livio, 2008]{livio2008golden}
+Livio, M. (2008).
+\newblock {\em The golden ratio: The story of phi, the world's most astonishing
+  number}.
+\newblock Broadway Books.
+
+\bibitem[Mantri et~al., 2014]{mantri2014artificial}
+Mantri, J.~K., Gahan, P., and Nayak, B.~B. (2014).
+\newblock Artificial neural networks—an application to stock market
+  volatility.
+\newblock {\em Soft-Computing in Capital Market: Research and Methods of
+  Computational Finance for Measuring Risk of Financial Instruments}, page 179.
+
+\bibitem[Murphy, 1999]{murphy1999technical}
+Murphy, J.~J. (1999).
+\newblock {\em Technical analysis of the financial markets: A comprehensive
+  guide to trading methods and applications}.
+\newblock Penguin.
+
+\bibitem[Osler, 2000]{osler2000support}
+Osler, C.~L. (2000).
+\newblock Support for resistance: technical analysis and intraday exchange
+  rates.
+\newblock {\em Economic Policy Review}, 6(2).
+
+\bibitem[Otake, 2013]{otake2013can}
+Otake, T. (2013).
+\newblock Can we apply fibonacci retracement in the african market?
+\newblock {\em African Journal of Business Management}, 7(24):2337.
+
+\bibitem[Pan, 2003]{pan2003joint}
+Pan, H. (2003).
+\newblock A joint review of technical and quantitative analysis of financial
+  markets towards a unified science of intelligent finance.
+\newblock In {\em Proc. 2003 Hawaii International Conference on Statistics and
+  Related Fields, June}, pages 5--9. Citeseer.
+
+\bibitem[Pan et~al., 2005]{pan2005predicting}
+Pan, H., Tilakaratne, C., and Yearwood, J. (2005).
+\newblock Predicting australian stock market index using neural networks
+  exploiting dynamical swings and intermarket influences.
+\newblock {\em Journal of research and practice in information technology},
+  37(1):43--56.
+
+\bibitem[Prechter~Jr, 2001]{prechter2001unconscious}
+Prechter~Jr, R.~R. (2001).
+\newblock Unconscious herding behavior as the psychological basis of financial
+  market trends and patterns.
+\newblock {\em The Journal of Psychology and Financial Markets}, 2(3):120--125.
+
+\bibitem[Raberto et~al., 2001]{raberto2001agent}
+Raberto, M., Cincotti, S., Focardi, S.~M., and Marchesi, M. (2001).
+\newblock Agent-based simulation of a financial market.
+\newblock {\em Physica A: Statistical Mechanics and its Applications},
+  299(1):319--327.
+
+\bibitem[Seydel et~al., 2006]{seydel2006tools}
+Seydel, R., Seydel, R.~U., and Seydel, R.~U. (2006).
+\newblock {\em Tools for computational finance}, volume~69.
+\newblock Springer.
+
+\bibitem[Tirea et~al., 2012]{tirea2012stock}
+Tirea, M., Tandau, I., and Negru, V. (2012).
+\newblock Stock market multi-agent recommendation system based on the elliott
+  wave principle.
+\newblock In {\em Multidisciplinary Research and Practice for Information
+  Systems}, pages 332--346. Springer.
+
+\bibitem[Weckman et~al., 2008]{weckman2008integrated}
+Weckman, G.~R., Lakshminarayanan, S., Marvel, J.~H., and Snow, A. (2008).
+\newblock An integrated stock market forecasting model using neural networks.
+\newblock {\em International Journal of Business Forecasting and Marketing
+  Intelligence}, 1(1):30--49.
+
+\bibitem[Zhen-Ya, 2010]{zhen2010financial}
+Zhen-Ya, Y. (2010).
+\newblock Financial rogue waves.
+\newblock {\em Communications in Theoretical Physics}, 54(5):947.
+
+\end{thebibliography}
