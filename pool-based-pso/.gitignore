@@ -1,0 +1,10 @@
+*.aux
+.DS_Store
+*.log
+paper.pdf
+*.gz
+*.bbl
+*.blg
+papers/*
+graffle/*
+workflow/*

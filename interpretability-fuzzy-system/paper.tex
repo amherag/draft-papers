@@ -1,0 +1,137 @@
+\documentclass[conference]{IEEEtran}
+
+\ifCLASSOPTIONcompsoc
+\usepackage[nocompress]{cite}
+\else
+\usepackage{cite}
+\fi
+
+
+\usepackage{flushend}
+
+
+\usepackage[pdftex]{graphicx}
+\graphicspath{{./png/}{./eps/}}
+\DeclareGraphicsExtensions{.pdf,.jpeg,.png,.eps}
+
+\usepackage{amsmath}
+\interdisplaylinepenalty=2500
+
+\hyphenation{op-tical net-works semi-conduc-tor}
+
+\begin{document}
+\title{Sacrificing Interpretability for Better Performance in Fuzzy Inference Systems}
+
+
+\author{\IEEEauthorblockN{Amaury Hernandez-Aguila, Mario
+    Garcia-Valdez, Oscar Castillo}
+  \IEEEauthorblockA{Tijuana Institute of Technology\\
+    Division of Graduate Studies and Graduates\\
+    Tijuana, Mexico\\
+    Email: \{amherag,mario,ocastillo\}@tectijuana.edu.mx}}
+
+\maketitle
+
+\begin{abstract}
+
+\end{abstract}
+
+\IEEEpeerreviewmaketitle
+
+\section{Throwing References}
+
+A case study to illustrate the use of non-convex membership functions for linguistic terms
+\cite{garibaldi2004case}
+
+Interpretability constraints for fuzzy information granulation
+\cite{mencar2008interpretability}
+
+Analysis of Fuzzy Entropy and Similarity Measure for Non Convex
+Membership Functions
+\cite{lee2009analysis}
+
+frbs: fuzzy rule-based systems for classification and regression in R
+\cite{riza2015frbs}
+
+A new hybrid enhanced local linear neuro-fuzzy model based on the optimized singular spectrum analysis and its application for nonlinear and chaotic time series forecasting
+\cite{abdollahzade2015new}
+
+Optimization of the Fuzzy Integrators in Ensembles of ANFIS Model for
+Time Series Prediction: The case of Mackey-Glass
+\cite{soto2015optimization}
+
+\section{Introduction}
+\label{introduction}
+
+\section{Related Work}
+\label{related-work}
+
+
+
+\begin{equation}
+  \label{squared-sine}
+  \begin{aligned}
+    sin^2(x)
+\end{aligned}
+\end{equation}
+
+
+
+\section{Preliminaries}
+\label{preliminaries}
+
+\section{Proposed Method}
+\label{proposed-method}
+
+% \begin{figure}[!t]
+%   \centering
+%   \includegraphics[width=2.5in]{fs-as-ifs}
+%   \caption{Classic Fuzzy Set Represented as an Intuitionistic Fuzzy Set}
+%   \label{fs-as-ifs}
+% \end{figure}
+
+\section{Experiments}
+\label{experiments}
+
+\begin{enumerate}
+  \item if $t_{0}$ is $A_{1}$ then $p_{t+1}$ is $C_{1}$
+  \item if $t_{-6}$ is $A_{2}$ then $p_{t+1}$ is $C_{2}$
+  \item if $t_{-12}$ is $A_{3}$ then $p_{t+1}$ is $C_{3}$
+  \item if $t_{-18}$ is $A_{4}$ then $p_{t+1}$ is $C_{4}$
+\end{enumerate}
+
+\section{Results}
+\label{results}
+
+\begin{table}[!t]
+  \renewcommand{\arraystretch}{1.3}
+  \caption{Hypothesis Tests for the Training Stage, First Experiment}
+  \label{first-hypothesis-tests-training}
+  \centering
+  \begin{tabular}{|c|c|c|c|c|c|}
+    \hline
+    Method & $\mu_{TR}$ & $SD_{TR}$ & $n$ & t-Value & CI \\
+    \hline
+    T1-IFIS & 89.50 & 25.36 & 60 &  & \\
+    \hline
+    T1-FIS & 108.05 & 23.47 & 60 & -4.1584 & $>$ 99.9\% \\
+    \hline
+    IT2-FIS (\(\mu\)) & 112.56 & 29.16 & 100 & -5.2597 & $>$ 99.9\% \\
+    \hline
+    IT2-FIS (SD) & 102.31 & 26.08 & 300 & -3.5548 & $>$ 99.9\% \\
+    \hline
+  \end{tabular}
+\end{table}
+
+\section{Conclusion}
+\label{conclusion}
+
+
+\section{Future Work}
+\label{future-work}
+
+
+\bibliographystyle{IEEEtran}
+\bibliography{paper}
+
+\end{document}
